@@ -1,4 +1,4 @@
-1. git Status - use to check the status of any changes made in Repository
+1. git status - use to check the status of any changes made in Repository
 2. git add <filename> - use it after any modificaiton made
 3. git add . - This is use to add all changes of all the files
 4. git commit -m - This is used to commit with "some message"
