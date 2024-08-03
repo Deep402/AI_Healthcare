@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sillyox16/Desktop/AI_Healthcare",
+      "program": "/Users/sillyox16/Desktop/AI_Healthcare/build/Debug/outDebug"
+    }
+  ]
+}
